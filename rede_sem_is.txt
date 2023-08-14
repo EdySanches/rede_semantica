@@ -1,0 +1,14 @@
+joao,joga,lol
+pedro,assiste,joao
+edy,assiste,joao
+mario,joga,dota
+edy,assiste,mario
+mario,joga,ded
+edy,assiste,mario
+jose,joga,thewitcher
+carol,assiste,jose
+vitor,assiste,jose
+maria,joga,csgo
+vitor,assiste,maria
+julio,joga,valorant
+carlos,assiste,julio

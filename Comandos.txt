@@ -1,0 +1,4 @@
+
+
+# Ativar o ambiente virtual
+source pyswip_env/bin/activate
